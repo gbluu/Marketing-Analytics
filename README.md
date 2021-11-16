@@ -12,3 +12,4 @@ Dữ liệu này gồm thông tin về 2240 khách hàng, dữ liệu về sản
 - Xử lý, làm sạch dữ liệu (Data cleanning)
 - Phân tích thống kê (Statistical analytics)
 - Trực quan hóa dữ liệu (data visualization)
+- Đưa ra những đề xuất cải thiện hiệu quả
